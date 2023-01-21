@@ -6,7 +6,9 @@ Open the command line in the directory containing the `main.py` file and run the
 - `pip install -r requirements.txt `
 - `python main.py`
 
-The application should run, allowing you to modify the parameters and save the resulting graph.
+The application should run, allowing you to modify the parameters and save the resulting graph:
+
+<img src="https://raw.githubusercontent.com/AntonisTorb/periodic-parametric-curves/main/demo.jpg" alt="demo image" style="width:50%; height:50%;"/>
 
 ## Testing different functions
 If you would like to use functions other than `sin`, you can specify them `get_datapoints` function. By setting `x = t` you can also plot any single function defined as `y`.
